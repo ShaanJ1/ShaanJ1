@@ -13,3 +13,4 @@ I'm a high school student exploring the world of programming & engineering.
 - Fusion 360
 - TailwindCSS
 - SvelteKit
+- FTCSIM
